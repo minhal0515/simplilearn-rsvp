@@ -1,5 +1,5 @@
 "use client"
-import {submitRSVP} from "@/app/actions/submit";
+import {submitRSVP} from "@/actions/submit";
 export default function CTAForm() {
     return (
         <section id = "register" className = "bg-white px-6 py-20">

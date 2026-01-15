@@ -1,6 +1,5 @@
 "use client";
-import {submitRSVP} from "@/app/actions/submit";
-import {Mail} from "lucide-react";
+import {submitRSVP} from "@/actions/submit";
 
 export default function Footer() {
   return (
